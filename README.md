@@ -1,6 +1,6 @@
 ## Olá, me chamo Guilherme. Muito Prazer! 
 
-🌱 Graduando em análise e desenvolvimento de sistemas, atualmente estudando: JAVA.
+🌱 Graduado em análise e desenvolvimento de sistemas, atualmente estudando: JAVA.
 
 <div align="left">
   <a href="https://github.com/GuimaraesNG">
